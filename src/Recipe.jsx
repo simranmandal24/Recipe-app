@@ -1,5 +1,5 @@
 import React from "react";
-import "./Recipe.css";
+import "./recipe.css";
 
 const Recipe = ({ recipe, onClick }) => {
   return (
